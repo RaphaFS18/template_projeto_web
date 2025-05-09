@@ -56,7 +56,8 @@ US02	Como usuário, quero marcar uma tarefa como concluída para saber que já a
 ### 3.1. Modelagem do banco de dados  (Semana 3)
 
 ![modelo](https://res.cloudinary.com/dpks4ergy/image/upload/v1746807720/Captura_de_Tela_2025-05-09_%C3%A0s_13.20.56_qzexwj.png)
-*Posicione aqui os diagramas de modelos relacionais do seu banco de dados, apresentando todos os esquemas de tabelas e suas relações. Utilize texto para complementar suas explicações, se necessário.*
+
+Este é o meu modelo.
 
 *Posicione também o modelo físico com o Schema do BD (arquivo .sql)*
 
